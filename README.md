@@ -81,13 +81,21 @@ src="https://img.shields.io/twitter/follow/@MSAlamNet?logo=twitter&style=for-the
             width="36"
             height="36"
             alt="PostgreSQL" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"
         ><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
             width="36"
             height="36"
             alt="React" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank"
+        rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+            width="36"
+            height="36"
+            alt="JavaScript"/></a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"
     ><img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
         width="36"
