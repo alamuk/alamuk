@@ -38,6 +38,18 @@ src="https://img.shields.io/twitter/follow/@MSAlamNet?logo=twitter&style=for-the
         width="36"
         height="36"
         alt="Python"/></a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+            width="36"
+            height="36"
+            alt="Docker" /></a>
+   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"
+        ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg"
+            width="36"
+            height="36"
+            alt="Amazon Web Services" /></a>
    <a href="https://flask.palletsprojects.com/en/2.0.x/"
         target="_blank"
         rel="noreferrer"
@@ -52,23 +64,11 @@ src="https://img.shields.io/twitter/follow/@MSAlamNet?logo=twitter&style=for-the
             width="36"
             height="36"
             alt="PyTorch" /></a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-            width="36"
-            height="36"
-            alt="Docker" /></a>
    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg"
             width="36"
             height="36"
             alt="TensorFlow"/></a>
-   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"
-        ><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg"
-            width="36"
-            height="36"
-            alt="Amazon Web Services" /></a>
    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
         ><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
