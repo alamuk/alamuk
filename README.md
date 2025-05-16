@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-As a developer, I have experience building responsive web applications, leveraging diverse technologies, creating reusable components, optimising performance, and solving problems agilely.
+Cloud Solution Architect with an engineering focus and 2+ years of hands-on development experience across backend and frontend systems. Strong computing foundation with expertise in Python, JavaScript, React.js, and API integration. Currently pursuing an MSc in Cloud Computing at UEL (2025), specializing in scalable applications, cloud-native architecture, and DevOps. Actively expanding skills in Azure and infrastructure automation. Quick learner, collaborative team player, and passionate about delivering secure, practical solutions in dynamic tech environments.
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [MyProtfolio](http://ms-alam.co.uk)
