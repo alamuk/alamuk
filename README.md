@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD Shah Alam
 ====================================================================================================================================
 
-Frontend Developer
-------------------
+Cloud Solutions Engineer with Python Expertise
+----------------------------------------------
 
 Cloud-Architecture focused with 2+ years of hands-on experience in backend systems and Python. Currently pursuing an MSc in Cloud Computing at UEL (2025), with a focus on scalable applications, DevOps, and cloud-native architecture. Skilled in AWS, API integration, and automation; expanding into Azure. Fast learner and collaborative problem-solver.
 
