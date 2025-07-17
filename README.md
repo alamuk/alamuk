@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD Shah Alam
 ====================================================================================================================================
 
-Cloud Solutions Engineer with Python Expertise
-----------------------------------------------
+Designing Scalable, Secure, Resilient & Cost-Effective Cloud Architectures
+---------------------------------------------------------------------------
 
 Cloud Solution Engineer with hands-on experience in AWS and Azure, and expanding expertise in hybrid and AI-integrated cloud environments. Currently pursuing an MSc in Cloud Computing at the University of East London (UEL), with a strong focus on cloud-native architecture, DevOps practices, infrastructure automation, and the design of scalable, secure, and reliable cloud applications.
 
