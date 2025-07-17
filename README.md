@@ -7,15 +7,15 @@ Cloud Solutions Engineer with Python Expertise
 Cloud Solution Engineer with hands-on experience in AWS and Azure, and expanding expertise in hybrid and AI-integrated cloud environments. Currently pursuing an MSc in Cloud Computing at the University of East London (UEL), with a strong focus on cloud-native architecture, DevOps practices, infrastructure automation, and the design of scalable, secure, and reliable cloud applications.
 
 Skilled in:
-# Infrastructure as Code (Terraform)
+- Infrastructure as Code (Terraform)
 
-# CI/CD pipelines
+- CI/CD pipelines
 
-# Containerization (Docker, Kubernetes)
+- Containerization (Docker, Kubernetes)
 
-# Programming with Python and JavaScript
+- Programming with Python and JavaScript
 
-# API & integration
+- API & integration
 
  
 A fast learner and effective collaborator with a strong cloud foundation and a passion for secure, real-world cloud solutions. I am driven to solve complex problems through scalable, automated infrastructure — and eager to grow within innovative cloud teams.
