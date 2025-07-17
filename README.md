@@ -4,7 +4,24 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Solutions Engineer with Python Expertise
 ----------------------------------------------
 
-Cloud-Architecture focused with 2+ years of hands-on experience in backend systems and Python. Currently pursuing an MSc in Cloud Computing at UEL (2025), with a focus on scalable applications, DevOps, and cloud-native architecture. Skilled in AWS, API integration, and automation; expanding into Azure. Fast learner and collaborative problem-solver.
+Cloud Solution Engineer with hands-on experience in AWS and Azure, and expanding expertise in hybrid and AI-integrated cloud environments. Currently pursuing an MSc in Cloud Computing at the University of East London (UEL), with a strong focus on cloud-native architecture, DevOps practices, infrastructure automation, and the design of scalable, secure, and reliable cloud applications.
+
+Skilled in:
+# Infrastructure as Code (Terraform)
+
+# CI/CD pipelines
+
+# Containerization (Docker, Kubernetes)
+
+# Programming with Python and JavaScript
+
+# API & integration
+
+ 
+A fast learner and effective collaborator with a strong cloud foundation and a passion for secure, real-world cloud solutions. I am driven to solve complex problems through scalable, automated infrastructure — and eager to grow within innovative cloud teams.
+
+Certification on Credly Link: 
+https://www.credly.com/users/md-shah-alam.82caf0d4
 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [MyProtfolio](http://ms-alam.co.uk)
